@@ -12,6 +12,8 @@ Repositório destinado às atividades e exercícios da disciplina **POB (Program
 
 ## 🚀 Tecnologias utilizadas
 - [Java](https://www.oracle.com/java/)
+- [GitHub](https://github.com/)
+
 
 ## Estrutura do Repositório
 📁 faeterj-pob  
