@@ -13,14 +13,15 @@ Repositório destinado às atividades e exercícios da disciplina **POB (Program
 ## 🚀 Tecnologias utilizadas
 - [Java](https://www.oracle.com/java/)
 
-## 📂 Estrutura do Repositório
-📁 faeterj-pob
-┣ 📂 src → Códigos-fonte em Java
-┣ 📂 docs → Documentação e materiais de estudo
-┗ 📜 README.md → Informações sobre o repositório
+## Estrutura do Repositório
+📁 faeterj-pob  
+📂 src → Códigos-fonte em Java  
+📂 docs → Documentação e materiais de estudo  
+📄 README.md → Informações sobre o repositório
+
 
 
 ## 👩🏾‍💻 Autora
-**Patrícia S.**  
+**Patrícia Sá.**  
 Estudante de Análise e Desenvolvimento de Sistemas na **FAETERJ**.  
 Buscando aprendizado e experiência em desenvolvimento de software.
