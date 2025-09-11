@@ -11,10 +11,14 @@ public class VerificaNumeroInt {
 
         if (num > 0) {
             System.out.println("Positivo");
-        } else if (num < 0) {
+        } 
+        else{ 
+            if (num < 0) {
             System.out.println("Negativo");
-        } else {
+            } 
+            else {
             System.out.println("Nulo");
+            }
         }
     }
 }
