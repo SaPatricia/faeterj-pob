@@ -16,7 +16,8 @@ public class DescontoSalario {
         double desconto;
         if (sexo == 'M') {
             desconto = salario * 0.05;
-        } else { 
+        } 
+        else { 
             desconto = salario * 0.03;
         }
 
