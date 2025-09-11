@@ -1,4 +1,5 @@
-/*2. Desenvolva um programa que leia o raio de um círculo e calcule sua área. Fórmula: Área = π * raio² Considere π = 3.14159.*/
+/*2. Desenvolva um programa que leia o raio de um círculo e calcule sua área. 
+Fórmula: Área = π * raio² Considere π = 3.14159.*/
 
 import java.util.Scanner;
 
