@@ -16,7 +16,8 @@ public class VerificaEleitor {
 
         if (idade >= 16) {
             System.out.println("Apto a ser eleitor");
-        } else {
+        } 
+        else {
             System.out.println("Inapto a ser eleitor");
         }
 
