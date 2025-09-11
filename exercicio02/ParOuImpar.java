@@ -10,7 +10,8 @@ public class ParOuImpar {
 
         if (num % 2 == 0) {
             System.out.println("PAR");
-        } else {
+        } 
+        else {
             System.out.println("ÍMPAR");
         }
     }
