@@ -1,4 +1,4 @@
-/**/
+/*9. Faça um programa que leia um valor em reais (R$) e a cotação do dólar no dia. O programa deve calcular e exibir o valor equivalente em dólares (US$).*/
 
 import java.util.Scanner;
 
