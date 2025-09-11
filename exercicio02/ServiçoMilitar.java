@@ -18,7 +18,8 @@ public class ServiçoMilitar{
 
         if (sexo == 'M' && idade == 18) {
             System.out.println("Serviço Militar Obrigatório");
-        } else {
+        } 
+        else {
             System.out.println("Isento de Serviço Militar");
         }
 
