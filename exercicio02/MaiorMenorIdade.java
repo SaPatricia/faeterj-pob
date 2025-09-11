@@ -11,7 +11,8 @@ public class MaiorMenorIdade {
 
         if (idade >= 18) {
             System.out.println("Maior de idade");
-        } else {
+        } 
+        else {
             System.out.println("Menor de idade");
         }
     }
