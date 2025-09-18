@@ -11,7 +11,7 @@ Requisitos:
 
 import java.util.Scanner;
 
-public class InversaoElementosArray {
+public class InversaoElementos {
 
     public static void main(String[] args) {
 
