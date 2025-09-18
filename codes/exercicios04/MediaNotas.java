@@ -1,8 +1,7 @@
 /*Exercício 2: Cálculo da Média de Notas
 
 Descrição:
-Desenvolva um programa que peça ao usuário para inserir 4 notas e armazene-as  em um array. Depois, o programa deve
-calcular e exibir a média das notas.
+Desenvolva um programa que peça ao usuário para inserir 4 notas e armazene-as  em um array. Depois, o programa deve calcular e exibir a média das notas.
 
 Requisitos:
 • Criar um array de tamanho 4 para armazenar as notas.
