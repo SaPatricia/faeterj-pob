@@ -1,8 +1,7 @@
 /*Exercício 1: Maior e Menor Valor em um Array
 
 Descrição:
-Crie um programa que solicite ao usuário 5 números inteiros e armazene-os em um array. Após isso, o programa deve exibir o maior e o 
-menor número do array.
+Crie um programa que solicite ao usuário 5 números inteiros e armazene-os em um array. Após isso, o programa deve exibir o maior e o menor número do array.
 
 Requisitos:
 • Criar um array de tamanho 5.
