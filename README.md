@@ -17,7 +17,7 @@ Repositório destinado às atividades e exercícios da disciplina **POB (Program
 
 ## Estrutura do Repositório
 📁 faeterj-pob  
-📂 src → Códigos-fonte em Java  
+📂 codes → Códigos em Java  
 📂 docs → Documentação e materiais de estudo  
 📄 README.md → Informações sobre o repositório
 
